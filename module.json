@@ -32,14 +32,6 @@
       "path": "lang/es.json"
     }
   ],
-  "packs": [
-    {
-      "name": "stream-view-macros",
-      "label": "Stream View Macros",
-      "path": "./packs/stream-view-macros.db",
-      "type": "Macro",
-          }
-  ],
   "relationships": {
     "requires": [
       {
