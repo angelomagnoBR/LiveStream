@@ -38,8 +38,7 @@
       "label": "Stream View Macros",
       "path": "./packs/stream-view-macros.db",
       "type": "Macro",
-      "system": []
-    }
+          }
   ],
   "relationships": {
     "requires": [
