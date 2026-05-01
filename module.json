@@ -4,8 +4,8 @@
   "description": "This module provides a minimal UI view with automated camera work, ideal for streaming or recording games.",
   "authors": [
     {
-      "name": "sPOiDar",
-      "url": "https://github.com/sPOiDar"
+      "name": "Angelo Magno",
+      "url": "https://github.com/angelomagnobr"
     }
   ],
   "version": "2.0.3-v13",
@@ -30,31 +30,25 @@
       "lang": "es",
       "name": "Spanish",
       "path": "lang/es.json"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/pt-BR.json"
     }
   ],
   "relationships": {
     "requires": [
       {
-        "id": "lib-wrapper",
-        "compatibility": {
-          "minimum": "1.12.7.2",
-          "verified": "1.12.7.2"
-        }
+        "id": "lib-wrapper"
       },
       {
-        "id": "socketlib",
-        "compatibility": {
-          "minimum": "1.0.10",
-          "verified": "1.0.10"
-        }
+        "id": "socketlib"
       }
     ]
   },
   "socket": true,
-  "license": "LICENSE",
-  "readme": "README.md",
   "url": "https://github.com/angelomagnoBR/LiveStream",
-  "bugs": "https://github.com/angelomagnoBR/LiveStream/issues",
   "manifest": "https://raw.githubusercontent.com/angelomagnoBR/LiveStream/main/module.json",
-  "download": "https://github.com/angelomagnoBR/LiveStream/releases/download/v2.0.3-v13/stream-view-v13.zip"
+  "download": "https://github.com/angelomagnoBR/LiveStream/archive/refs/heads/main.zip"
 }
